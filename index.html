@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Calculadora de Importação</title>
+        <link rel="stylesheet" href="./style.css" />
+        <style>
+            @import url("https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap");
+        </style>
+    </head>
+
+    <body>
+        <main class="c">
+            <section id="sectionContainer" class="c">
+                <header class="c">
+                    <div id="headerContainer">
+                        <h1>Calculadora de importação</h1>
+                    </div>
+                </header>
+
+                <div id="howWork"><h1 id="howWorkText">Como funciona o cálculo?</h1></div>
+
+                <div id="cardContent" class="c">
+                    <h1>INSIRA O VALOR DO PRODUTO</h1>
+                    <input type="number" name="" id="inputValue" placeholder="Valor do Produto em R$" />
+                    <h1>INSIRA O VALOR DO FRETE</h1>
+                    <input type="number" name="" id="inputShip" placeholder="Valor do Frete em R$" />
+                    <p id="errorMsg">*Insira os valores determinados*</p>
+                    <button id="cButton" onclick="cButton()">CALCULAR</button>
+                </div>
+            </section>
+
+            <section id="resultContainer" class="c">
+                <div id="resultContent" class="c">
+                    <p>EM CASO DE TAXAÇÃO, VOCÊ IRÁ PAGAR APROXIMADAMENTE <span id="resultado">0</span> DE IMPOSTO</p>
+                    <button id="bButton" onclick="bButton()">Voltar</button>
+                </div>
+            </section>
+
+            <section id="howContainer" class="c">
+                <div id="howContent" class="c">
+                    <p>
+                        A taxa de produtos importados (também conhecida como alíquota ou taxa de importação) é de 60% do valor total da compra. Ou
+                        seja, essa tributação não pode exceder 60% do preço total pago pelo cliente, considerando a soma de todos os itens adquiridos,
+                        do seguro e do preço do frete.
+                    </p>
+                </div>
+            </section>
+        </main>
+
+        <script>
+            /*
+
+            Fazer algo ser inputado  com o enter
+
+        FORMA OTIMIZADA:
+        
+        var input = document.getElementById("input");
+        input.addEventListener("keyup", function (event) {
+            if (event.keyCode === 13) {
+                event.preventDefault();
+                document.getElementById("button").click();
+            }
+        })
+        
+
+            var input = document.getElementById("input");
+            input.addEventListener("keyup", click1);
+
+            function click1() {
+                if (event.keyCode === 13) {
+                    event.preventDefault();
+                    document.getElementById("button").click();
+                }
+            }
+
+            */
+        </script>
+
+        <script src="./script.js"></script>
+    </body>
+</html>
