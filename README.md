@@ -15,7 +15,7 @@
 Esta página tem o objetivo de calcular a taxa máxima que pode ser cobrada ao adquirir um produto importado no Brasil, a tributação máxima é de 60% do valor do produto acrescido ao frete e também seguro.
 </p>
 
-<a href"# 💻 Tecnologias ">Eu</a>
+[Demonstração](#Demonstração) | [Tecnologias](# 💻 Tecnologias)
 
 # 📷 Demonstração 
 
