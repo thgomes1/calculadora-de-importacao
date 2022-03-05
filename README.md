@@ -16,13 +16,12 @@ Esta página tem o objetivo de calcular a taxa máxima que pode ser cobrada ao a
 </p>
 
 <p align="center">
-  <a href="#camera-demonstração">Demonstração</a>&nbsp;|&nbsp;
-  <a href="#computer-tecnologias">Tecnologias</a>&nbsp;|&nbsp;
+  <a href="#camera-demonstração">Demonstração</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#computer-tecnologias">Tecnologias</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#open_book-licença">Licença</a>
 </p>
 
-
-# :camera: Demonstração 
+# :camera: Demonstração
 
 <table>
  <tr>
@@ -35,13 +34,13 @@ Esta página tem o objetivo de calcular a taxa máxima que pode ser cobrada ao a
  </tr>
 </table>
 
-# :computer: Tecnologias 
+# :computer: Tecnologias
 
 -   <p>HTML5</p>
 -   <p>CSS3</p>
 -   <p>JAVASCRIPT</p>
 
-# :open_book: Licença 
+# :open_book: Licença
 
 Este projeto possui uma licença do tipo MIT. Cheque o arquivo [LICENSE](https://github.com/thgomes1/calculadora-de-importacao/blob/main/LICENSE) para saber mais
 
