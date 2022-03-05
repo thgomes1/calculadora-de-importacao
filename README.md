@@ -2,6 +2,13 @@
    CALCULADORA DE IMPORTAÇÃO
 </h1>
 
+<p align="center">
+   <a href="https://www.linkedin.com/in/thiago-gomes-165ab722b/" >
+   <img alt="Thiago Gomes [Linkedin]" src="https://img.shields.io/badge/-ThiagoGomes-1E65CF?style=flat&logo=Linkedin&logoColor=white"/>
+   </a>
+   <a href="https://github.com/thgomes1/calculadora-de-importacao/blob/main/LICENSE" >
+   <img alt="MIT-LICENSE" src="https://img.shields.io/github/license/thgomes1/calculadora-de-importacao?color=rgb%2830%2C%20101%2C%20207%29"/>
+   </a>
 <p>
 Esta página tem o objetivo de calcular a taxa máxima que pode ser cobrada ao adquirir um produto importado no Brasil, a tributação máxima é de 60% do valor do produto acrescido ao frete e também seguro.
 </p>
